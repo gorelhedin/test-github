@@ -1,7 +1,7 @@
 let
   a = b
   b = 3.0
-  c = 6.0
+  c = 7.0
 in
   a * c
 end
