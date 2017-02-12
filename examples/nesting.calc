@@ -1,6 +1,6 @@
 let
   a = b
-  b = 5.0
+  b = 7.0
 in
   a * c
 end
