@@ -1,6 +1,7 @@
 let
   a = b
   b = 7.0
+  d = 2.0
 in
   a * c
 end
