@@ -3,6 +3,7 @@ let
   b = 3.0
   c = 17.0
   d = 1.0
+  e = 4.0
 in
   a * c
 end
